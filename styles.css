@@ -29,10 +29,10 @@ body{
 }
 
 .mockups{
-  /* width:30rem; */
   width:85%;
   margin:2rem 2rem 0 2rem;
 }
+
 
 h1{
 font-family: 'Poppins', sans-serif;
@@ -111,7 +111,7 @@ button{
     text-align:left;
     font-weight: 400;
     margin-top:12rem;
-    /* margin-left: 1rem; */
+    
   }
 
   p{
